@@ -6,6 +6,6 @@ Game Design Document: *link*
 You are welcome to come with ideas to the GDD on our Discord!
 
 
-Discord: *link*
+Discord: https://discord.gg/MNzxv5h
 
 Trello: https://trello.com/b/D4KFtlv1/lion-heart
